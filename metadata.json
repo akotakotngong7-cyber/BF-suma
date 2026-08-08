@@ -1,0 +1,6 @@
+{
+  "name": "BF Suma Distributor Portal",
+  "description": "Global B2B distributor portal & partnership platform for BF Suma natural herbal products and health supplements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
